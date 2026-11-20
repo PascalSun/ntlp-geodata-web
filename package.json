@@ -1,7 +1,7 @@
 {
   "name": "@ntlp/geodata-web",
   "version": "0.4.0",
-  "description": "How a research app's frontend talks to the NTLP Geo Research Platform: sign-in through the platform, tokens, API calls, shared chrome types.",
+  "description": "How a research app's frontend talks to AgenticGeoMate: sign-in through the platform, tokens, API calls, shared chrome types.",
   "license": "MIT",
   "repository": { "type": "git", "url": "https://github.com/PascalSun/ntlp-geodata-web.git" },
   "type": "module",
