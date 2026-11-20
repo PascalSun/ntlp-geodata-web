@@ -1,6 +1,6 @@
-# ntlp-geodata-web — the web client for the NTLP Geo Data Platform
+# ntlp-geodata-web — the web client for AgenticGeoMate
 
-`@ntlp/geodata-web` is what a website built on the [NTLP Geo Data Platform](https://geo.nlp-tlp.org) uses to talk to it: the sign-in dialog (an emailed six-digit code, or a password), storing and refreshing the tokens that come with it, calling the platform's API as the signed-in person, and the shared site config. Every app on the platform (the geo hub, MineTrace, CoreTrace, …) uses it, so none of them writes its own sign-in or token code. The API itself is documented at <https://geo.nlp-tlp.org/docs> and works from any language.
+`@ntlp/geodata-web` is what a website built on [AgenticGeoMate](https://geo.nlp-tlp.org) uses to talk to it: the sign-in dialog (an emailed six-digit code, or a password), storing and refreshing the tokens that come with it, calling the platform's API as the signed-in person, and the shared site config. Every app on the platform (the geo hub, MineTrace, CoreTrace, …) uses it, so none of them writes its own sign-in or token code. The API itself is documented at <https://geo.nlp-tlp.org/docs> and works from any language.
 
 Getting data in Python (scripts, notebooks)? Use the Python client instead: [`ntlp-geodata`](https://github.com/PascalSun/ntlp-geodata).
 
